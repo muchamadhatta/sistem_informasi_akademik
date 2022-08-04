@@ -1,0 +1,20 @@
+.header .content li i,.header .social li:hover a,.header .single-widget i,.header .button .btn:hover i,.home-slider .single-slider h1 span,.home-slider .owl-carousel .owl-nav div:hover,.enroll .form-group input:hover,.enroll .form-group textarea:hover,.courses .single-course .btn:hover,.courses .single-course h4 span,.courses .single-course h4:hover a,.courses.single .single-info i,.courses.single .course-required h4,.courses.single .course-required ul li span,.team-style2 .team-content .social li:hover a,.team-style2 .team-content .social li.active,.team-details .address li a:hover,.team-details .address li i,.testimonials .main-content:before,
+.testimonials .main-content:after,.testimonials .owl-carousel .owl-nav div:hover,.events .event-content .meta span i,.events .event-content .btn,.events.single .event-content h2:hover a,.blog .blog-content .blog-title:hover a,.blog .blog-info a i,.blog.b-archives.single .blog-info a i,.blog.b-archives.single .blog-title a:hover,.blog.b-archives.single .form-group input:hover,.blog.b-archives.single .form-group textarea:hover,.learnedu-sidebar .search input:hover,.learnedu-sidebar .single-widget h3 span,.learnedu-sidebar .post-info h4:hover a,.learnedu-sidebar .post-info span i,.learnedu-sidebar .course-content a:hover,.learnedu-sidebar .course-content .meta span i,.learnedu-sidebar .calendar li a:hover,
+.learnedu-sidebar .calendar li a:hover i,.learnedu-sidebar .tags ul li a:hover,.error-page .error-inner h2 span,.contact .contact-info .icon i,.contact .contact-info a:hover,.footer .list li i,.footer .useful-links ul li a:hover,.footer .single-news h4 a:hover,.footer .social li a:hover,.footer .copyright a,.section-title h2 span{
+	color: #00B16A;
+}
+.header .nav li:hover a,.header .nav li.active a,.header .nav li .dropdown li:hover a,.header .nav li .dropdown li .dropdown.submenu li:hover a,.header .button .btn,.home-slider .single-slider .btn:before,.home-slider .single-slider .btn.primary,.enroll .form-title,.enroll .form-group .btn:hover,.cta .cta-inner:before,.courses .course-head a,.courses .course-meta .price,.courses .owl-carousel .owl-nav div:hover,.courses.archives .pagination li:hover a,.courses.archives .pagination li.active a,.courses.single .course-price .btn,.courses.single .course-feature h4:before,.team .button .btn,.team-style2 .single-team .image:before,.team-details .member-detail .social li a:hover,.team-details .member-detail .social li a.active,.team-details .progress .progress-bar,.team-details .progress .percent,.events .single-event .head .btn,.events .event-content .btn:before,.events .owl-carousel .owl-nav div:hover,.events.archives .pagination li:hover a, 
+.events.archives .pagination li.active a,.events.single .social li:hover a,.events.single .owl-carousel .owl-nav div:hover,.fun-facts::before,.blog .blog-head .date,.blog .blog-content .btn,.blog .owl-carousel .owl-nav div:hover,.blog .owl-dots .owl-dot span,.blog .owl-dots .owl-dot.active span,.blog.b-archives .pagination li:hover a, 
+.blog.b-archives .pagination li.active a,.blog.b-archives.single .b-gallery .owl-nav div:hover,.blog.b-archives.single .blog-bottom .share li:hover a,.blog.b-archives.single .blog-bottom .prev-next li a,.blog.b-archives.single .form-group button,.learnedu-sidebar .search .button,.about-us .single-image .btn:hover,.about-us .about-text h2:before,.about-us .about-text .btn,.faq .panel.active .faq-title a,.error-page .search-form .btn,.contact .form-head .form-group button,.slicknav_nav,.footer .single-widget h2:before,.footer .newsletter .button,#scrollUp,.breadcrumbs ul li.active a{
+	background: #00B16A;
+}
+.courses.single .course-required ul li span,.testimonials .single-testimonial:hover img,
+.testimonials .owl-item.center.active .single-testimonial img,.learnedu-sidebar .tags ul li a:hover{
+	border-color:#00B16A;
+}
+.blog.b-archives.single .blockquote,.learnedu-sidebar .single-widget h3{
+	border-left-color:#00B16A;
+}
+.team .team-hover {
+	background: rgba(0, 177, 106, 0.9);
+}
